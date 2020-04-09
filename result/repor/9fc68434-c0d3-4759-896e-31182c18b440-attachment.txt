@@ -1,0 +1,3 @@
+[32mINFO    [0m test_log:log_test.py:24 开始测试：{'username': 17774571, 'password': 'lnbx94963', 'expect': '登录失败 : 用户名或密码错误'}
+[32mINFO    [0m test_log:log_test.py:24 获取的断言信息：登录失败 : 用户名或密码错误
+[32mINFO    [0m test_log:log_test.py:24 测试结束！

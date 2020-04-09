@@ -1,0 +1,1 @@
+[32mINFO    [0m test_log:log_test.py:24 测试开始：{'realname': '', 'phone': 17774571997, 'expect': '用户名不能为空'}

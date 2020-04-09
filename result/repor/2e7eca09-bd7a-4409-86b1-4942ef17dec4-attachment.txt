@@ -1,0 +1,3 @@
+[32mINFO    [0m test_log:log_test.py:24 测试开始：{'teachername': '零零七', 'phone': 14760701301, 'yanzhengma': 'xxx', 'pwd': 'lnbx-94963', 'qrpwd': 'lnbx94963', 'expect': '两次密码输入不一致'}
+[32mINFO    [0m test_log:log_test.py:24 获取的断言信息：两次密码输入不一致
+[32mINFO    [0m test_log:log_test.py:24 测试结束

@@ -1,0 +1,1 @@
+[32mINFO    [0m test_log:log_test.py:24 测试开始：{'current_pwd': 'lnbx9963', 'change_pwd': '123456789', 'same_pwd': '123456789', 'expect': '错误 : 原密码错误、请输入新密码！！'}

@@ -1,0 +1,1 @@
+[32mINFO    [0m test_log:log_test.py:24 测试开始：{'current_pwd': 'lnbx-94963', 'change_pwd': '12345', 'same_pwd': '656', 'expect': '新密码和确认密码不同！'}

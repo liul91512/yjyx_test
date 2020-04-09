@@ -1,0 +1,1 @@
+[32mINFO    [0m test_log:log_test.py:24 测试开始：{'teachername': '', 'phone': 14760701301, 'yanzhengma': 'xxx', 'pwd': 'lnbx-94963', 'qrpwd': 'lnbx-94963', 'expect': '注册成功'}
